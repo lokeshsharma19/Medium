@@ -1,0 +1,16 @@
+{
+  "name": "@lokeshsharma_19/medium-common_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "deprecated": "This version is deprecated. Please use 1.0.1 instead.",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.3",
+    "zod": "^3.24.1"
+  }
+}

@@ -1,0 +1,16 @@
+name = "server"
+main = "src/index.ts"
+compatibility_date = "2025-01-15"
+
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDYwZGM4ZjYtNDU4My00NDhkLTg0MDItMjhlNWE5NWM1Y2U2IiwidGVuYW50X2lkIjoiMGJjMDI5N2I1ZjUxYjg4ZjU0NTgyYjg1MWExOTZkYzY2YmFhYWJhZmNjMGVlMDhlYmNiYzYwNDEwZWNjMDZjYyIsImludGVybmFsX3NlY3JldCI6ImI0MzM0NmQ1LTViNTYtNDI3OS1hYjE3LTU3MWI0NjVlMDIyNCJ9.jodSYay5GjEL-D5XworVwxZZEYbxH8fS6gvW5zyO7aE"
+
+JWT_SECRET = "Secret123"
+
+
+[observability.logs]
+enabled = true
+
+
+
