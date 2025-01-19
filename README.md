@@ -8,8 +8,7 @@ Hono
 Prisma : ORM
 Postgres database
 Connection pooling : Prisma accelerate
-Zod valdation
-Zod Inference
+Zod valdation & Type Inference
 npm registry : https://www.npmjs.com/package/@lokeshsharma_19/medium-common_v2
 npm
 typescript
